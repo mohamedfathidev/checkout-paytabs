@@ -170,6 +170,14 @@ php artisan config:clear
    - System processes refund through PayTabs API
    - Creates refund transaction record
 
+---
+
+## Test Cards
+
+1. Status (Failed) E => 4012001036983332            & CVV : 530   
+2. Status (Success) A => 4111111111111111           & CVV : 123    
+---
+
 ## 📂 Project Structure
 
 ```
